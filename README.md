@@ -6,9 +6,10 @@
 <hr>
 
 ```
-📚 I am a Software Engineering student at EMSI, with a keen interest in Front End Technologies, and a passion for Full Stack Development.
-🌱 I'm proficient in developing Full Stack apps using Java and JavaScript, with a focus on the latest front-end frameworks like React.
-🌟 I value Full Stack Development and continuously explore new tools and technologies to improve my skills.
+📚 Software and Data Engineering student at EMSI.
+🌱 Developing Full Stack apps using MERN Stack.
+🌟 Dedicated to ongoing learning and continual improvement.
+😎 Quote : "No pressure, no diamonds"
 
 ```
 <hr>
@@ -24,7 +25,7 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAmineALLAF"></p>
 <p align="center"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAmineALLAF&theme=github">
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedAmineALLAF&theme=github">
 </p> 
 
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
