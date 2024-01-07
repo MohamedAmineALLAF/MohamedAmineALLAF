@@ -12,11 +12,6 @@
 
 <h2 align="center">📈 Stats </h2>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedAmineALLAF&style=for-the-badge&color=023373" />
-<p>
-
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAmineALLAF"></p>
 <p align="center"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAmineALLAF&theme=github">
