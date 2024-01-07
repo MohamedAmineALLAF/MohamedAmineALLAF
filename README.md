@@ -1,5 +1,4 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="8%" style="padding-top:1px;padding-right:5px">, I am Mohamed Amine Allaf  </h1>
 
