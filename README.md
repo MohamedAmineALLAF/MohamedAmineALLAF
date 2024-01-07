@@ -2,14 +2,12 @@
 
 <h1 align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="8%" style="padding-top:1px;padding-right:5px">, I am Mohamed Amine Allaf  </h1>
 
-<hr>
 
 ```
 📚 Software and Data Engineering student at EMSI.
 🌟 Dedicated to ongoing learning and continual improvement.
 😎 Quote : "No pressure, no diamonds"
 ```
-<hr>
 
 
 <h2 align="center">📈 Stats </h2>
