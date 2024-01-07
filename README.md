@@ -9,7 +9,6 @@
 📚 Software and Data Engineering student at EMSI.
 🌟 Dedicated to ongoing learning and continual improvement.
 😎 Quote : "No pressure, no diamonds"
-
 ```
 <hr>
 
