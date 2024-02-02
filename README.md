@@ -4,19 +4,9 @@
 
 
 ```
-📚 Software and Data Engineering student at EMSI.
+📚 A passionate software developer
 🌟 Dedicated to ongoing learning and continual improvement.
-😎 Quote : "No pressure, no diamonds"
 ```
-
-
-<h2 align="center">📈 Stats </h2>
-
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAmineALLAF"></p>
-<p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAmineALLAF&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedAmineALLAF&theme=github">
-</p> 
 
 
 
